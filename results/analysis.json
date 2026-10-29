@@ -1,0 +1,40 @@
+{
+  "welch": {
+    "effect": 0.7698271558945368,
+    "ci_low": 0.4851397325684076,
+    "ci_high": 1.0545145792206658,
+    "pvalue": 1.1638149682254818e-07,
+    "se": 0.14524656024868676
+  },
+  "mann_whitney": {
+    "u_statistic": 228527081.0,
+    "pvalue": 1.5819988266809648e-13,
+    "probability_superiority": 0.503400269616989
+  },
+  "cuped": {
+    "effect": 0.7674496193131313,
+    "ci_low": 0.48295081946188134,
+    "ci_high": 1.0519484191643813,
+    "pvalue": 1.2477946581397526e-07,
+    "se": 0.14515099293972875,
+    "theta": 0.0012172035835528849,
+    "covariate": "history",
+    "variance_reduction_pct": 0.043396634158443526,
+    "history_outcome_correlation": 0.020922546956069866
+  },
+  "bootstrap_ci": [
+    0.49926827360096626,
+    1.049974038027531
+  ],
+  "checks": {
+    "srm_pvalue": 0.9961348415003554,
+    "exact_feature_duplicates": 6562,
+    "spend_conversion_mismatches": 0,
+    "original_assignment_preserved": true
+  },
+  "source_sha256": "0e5893329d8b93cefecc571777672028290ab69865718020c78c7284f291aece",
+  "seed": 42,
+  "bootstrap_repetitions": 3000,
+  "aa_repetitions": 500,
+  "completed_at_utc": "2026-10-28T10:21:42.937398+00:00"
+}

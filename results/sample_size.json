@@ -1,0 +1,15 @@
+{
+  "alpha": 0.05,
+  "power": 0.8,
+  "allocation": "50/50",
+  "window_days": 14,
+  "mde_usd": 0.5,
+  "assumed_sd_usd": 15.0,
+  "n_per_arm_primary": 14129,
+  "n_total_primary": 28258,
+  "conversion_example": {
+    "assumed_baseline": 0.01,
+    "mde_pp": 0.3,
+    "n_per_arm": 19744
+  }
+}

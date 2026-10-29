@@ -1,0 +1,17 @@
+{
+  "demo": {
+    "effect": 0.27444738501064714,
+    "ci_low": -0.035358685231422604,
+    "ci_high": 0.5842534552527169,
+    "pvalue": 0.08251256836726457,
+    "se": 0.15805656599164847
+  },
+  "demo_a": 10545,
+  "demo_b": 10761,
+  "repetitions": 500,
+  "rejected": 27,
+  "rejection_rate": 0.054,
+  "rejection_rate_ci_low": 0.03737435018105752,
+  "rejection_rate_ci_high": 0.0774265615106471,
+  "scope": "Offline resplitting of the original untreated arm, not a live product A/A"
+}
